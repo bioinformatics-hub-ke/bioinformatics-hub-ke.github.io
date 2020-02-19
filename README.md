@@ -9,7 +9,7 @@ To be a vivacious, well-coordinated and enthusiastic hub that will develop bioin
 
 ## Key activities 
   * Training 
-  * Networking 
+  * Networking
   * Peer learning 
   * Outreach events 
 
