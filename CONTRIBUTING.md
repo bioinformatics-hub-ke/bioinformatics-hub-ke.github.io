@@ -2,6 +2,7 @@
 **Thank you very much for considering to contribute to this project!**
 
 We welcome any form of contribution:
+- [Key Roles and Responsibilities](#Key-Roles-and-Resposiblities)
 - [Reporting mistakes or errors and bugs](#reporting-mistakes-and-bugs)
 - <a href="#creating-online-materials">Creating training/learning materials</a>
 - [Questions, ideas and feature requests](#Questions-and-ideas)
