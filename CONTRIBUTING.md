@@ -8,6 +8,15 @@ We welcome any form of contribution:
 - [Documentation improvements and new features](#documentation-improvements-and-new-features)
 - [Joining the hub](#joining-the-hub)
 
+## Key Roles and Resposiblities
+1. Event organization: We organize virtual and physical events all year round including training, workshops, hackathons, meet ups, science cafes and more. This usually involves curriculum development, coming up with a program, assisting trainers, etc.
+2. Website management: We run a website where we update all our activities and more for more people to reach us. This usually includes coming up with graphics and ensuring the information is up to date.
+3. Social media management: This involves running the BHKi Twitter account and communicating important information concerning BHKi or bioinformatics in general. It also involves some graphics including poster design.
+4. Communicaton management: This involves community engagement, finding information to constantly keep our community engaged including finding and putting up opportunities in the slack channel.
+5. Documentation: This involves documentation of all aspects of BHKi in a manner that ensures efficient running of operations.  
+
+We encourage our members to reach out if they would like to volunteer in any of these capacities.
+
 ## Reporting mistakes and bugs
 You can report bugs and mistakes by creating an [issue](https://github.com/bioinformatics-hub-ke/bioinformatics-hub-ke.github.io/issues/new) which describes the bug or mistake.
 
@@ -34,7 +43,7 @@ Here are a few ways you can get started in contributing;
 8. Pull requests will be merged by the training team members after at least one other person has reviewed the Pull request and approved it.
 
 ## Joining the hub
-Intrested in joining the hub kindly check our [website](http://bioinformaticshubofkenya.wordpress.com) on more details on how to be part of us.
+Intrested in joining the hub kindly check our [website](https://bhki.org/) on more details on how to be part of us.
 
 ## Contact us
 You can also send us an email at bioinformaticshubofkenya@gmail.com on any of the above issues or questions.
