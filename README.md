@@ -30,6 +30,7 @@ Host: Susan Njuki
 4:25 pm - 4:30 pm: Calendar of events by Kofia  
 
 Feedback session - positive and negative remarks 
+
 4:30pm - 4:45 pm: Mentors feedbacks - three each 5mins (Bernice and Angelique) 
 
 4:45pm - 4:55 pm: Two members - Sarah Nyanchera and Eneza 
