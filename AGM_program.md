@@ -28,4 +28,5 @@ Feedback session - positive and negative remarks
 Host: David Kiragu 
 
 5:00 pm - 5:30 pm - Elections
+
 5:30 pm - 5:35 pm: Closing remarks  
