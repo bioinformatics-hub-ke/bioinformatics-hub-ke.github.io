@@ -19,9 +19,9 @@ Host: Susan Njuki
 
 Feedback session - positive and negative remarks 
 
-4:30pm - 4:45 pm: Mentors feedbacks - three each 5mins (Bernice and Angelique) 
+4:30pm - 4:45 pm: Mentors feedbacks - each 5mins -  Sonal and Angelique 
 
-4:45pm - 4:55 pm: Two members - Sarah Nyanchera and Eneza 
+4:45pm - 4:55 pm: Two members - each 5mins - Sarah and Eneza 
 
 #### Stage 2 - Elections
 
