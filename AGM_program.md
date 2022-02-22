@@ -23,10 +23,9 @@ Feedback session - positive and negative remarks
 
 4:45pm - 4:55 pm: Two members - Sarah Nyanchera and Eneza 
 
-4:55 pm - 5:00 pm: Closing remarks  
-
 #### Stage 2 - Elections
 
 Host: David Kiragu 
 
 5:00 pm - 5:30 pm - Elections
+5:30 pm - 5:35 pm: Closing remarks  
